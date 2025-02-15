@@ -1,0 +1,56 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon Jan 20 19:58:33 2025
+# Process ID: 16112
+# Current directory: C:/Users/Andrey/Desktop/RISC_V_IF_ID_good
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16180 C:\Users\Andrey\Desktop\RISC_V_IF_ID_good\RISC_V_IF_ID.xpr
+# Log file: C:/Users/Andrey/Desktop/RISC_V_IF_ID_good/vivado.log
+# Journal file: C:/Users/Andrey/Desktop/RISC_V_IF_ID_good\vivado.jou
+# Running On        :Andrey
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+# CPU Frequency     :2304 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :17023 MB
+# Swap memory       :2281 MB
+# Total Virtual     :19305 MB
+# Available Virtual :7974 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Andrey/Desktop/RISC_V_IF_ID_good/RISC_V_IF_ID.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source RISC_V_TB.tcl
+current_wave_config {Untitled 1}
+add_wave {{/RISC_V_TB/procesor/memory/data_mem/memData}} 
+current_wave_config {Untitled 1}
+add_wave {{/RISC_V_TB/procesor/memory/data_mem/memData}} 
+current_wave_config {Untitled 1}
+add_wave {{/RISC_V_TB/procesor/memory/data_mem/read_data}} 
+current_wave_config {Untitled 1}
+add_wave {{/RISC_V_TB/procesor/memory/data_mem/memData}} 
+current_wave_config {Untitled 1}
+add_wave {{/RISC_V_TB/procesor/memory/data_mem/i}} 
+close_sim
+launch_simulation
+source RISC_V_TB.tcl
+current_wave_config {Untitled 2}
+add_wave {{/RISC_V_TB/procesor/instruction_decode/REGISTER_FILE_MODULE/Registers}} 
+current_wave_config {Untitled 2}
+add_wave {{/RISC_V_TB/procesor/memory/data_mem/memData}} 
+close_sim
+launch_simulation
+source RISC_V_TB.tcl
+close_sim
+launch_simulation
+launch_simulation
+source RISC_V_TB.tcl
+close_sim
+launch_simulation
+source RISC_V_TB.tcl
+close_sim

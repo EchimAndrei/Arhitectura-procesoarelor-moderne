@@ -1,0 +1,16 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sim_1/new/test.v,1731410118,verilog,,,,RISC_V_TB,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/ID.v,1732553327,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/IF.v,,ID,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/IF.v,1732584796,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/IF_ID_PIPE.v,,IF,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/IF_ID_PIPE.v,1732622387,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/PC.v,,IF_ID_PIPE,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/PC.v,1732571696,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/RISC_V_IF_ID.v,,PC,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/RISC_V_IF_ID.v,1732578366,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/adder.v,,RISC_V_IF_ID,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/adder.v,1732534122,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/imm_gen.v,,adder,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/imm_gen.v,1732552356,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/instruction_memory.v,,imm_gen,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/instruction_memory.v,1732535407,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/mux2_1.v,,instruction_memory,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/mux2_1.v,1732534444,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/registers.v,,mux2_1,,,,,,,,
+C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sources_1/new/registers.v,1732536733,verilog,,C:/Users/Andrey/Desktop/proiecteAPM/project_2/project_2.srcs/sim_1/new/test.v,,registers,,,,,,,,
